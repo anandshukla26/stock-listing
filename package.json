@@ -1,0 +1,24 @@
+{
+  "name": "stock-listing",
+  "version": "1.0.0",
+  "description": "Stock Listing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandshukla26/stock-listing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandshukla26/stock-listing/issues"
+  },
+  "homepage": "https://github.com/anandshukla26/stock-listing#readme",
+  "devDependencies": {
+    "@types/node": "^16.10.5",
+    "typescript": "^4.4.4"
+  }
+}
